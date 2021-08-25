@@ -24,7 +24,7 @@ Languages identified: <b> English, German, French, Dutch, Spanish, Italian </b>
 <div align="center">
 <h3 align="center"> Web app</h3>
 <p align="center"> 
-<img src="./assets/screenshot1.png" width=245px>
+<img src="./assets/screenshot1.png">
 </p>
 </div>
 
@@ -63,7 +63,7 @@ A total of 7200 (1200 for each class) samples were used for training and 1200 (2
 <div align="center">
 <h3 align="center"> LSTM</h3>
 <p align="center"> 
-<img src="./assets/screenshot_lstm.png" width=245px>
+<img src="./assets/screenshot_lstm.png" >
 </p>
 </div>
 
@@ -71,7 +71,7 @@ A total of 7200 (1200 for each class) samples were used for training and 1200 (2
 <div align="center">
 <h3 align="center"> LIGA</h3>
 <p align="center"> 
-<img src="./assets/screenshot_liga.png" width=245px>
+<img src="./assets/screenshot_liga.png" >
 </p>
 </div>
 
