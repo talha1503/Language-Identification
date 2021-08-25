@@ -11,7 +11,6 @@ def evaluate_liga(input_text):
 
 def evaluate_lstm(input_text):
     predicted_lang = lstm.test_one_sample(input_text)
-    print("Predicted lang: ",predicted_lang)
     return '''The input text ***%s*** is in ***%s***''' % (input_text,predicted_lang)
 
 st.title("""
