@@ -57,7 +57,10 @@ A total of 7200 (1200 for each class) samples were used for training and 1200 (2
 <li> An embedding size of 300 is used for the characters, with their being 61 total characters in our vocabulary.
 <li> For cross validation, a 5 fold cross validation technique was used, with the accuracy for testing being 96 %. 
 </ul>
+
 ------------------------------------------
+
+
 <h2>Results</h2>
 
 <div align="center">
